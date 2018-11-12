@@ -9,7 +9,7 @@
 2、执行以下命令安装
 
     # 安装 postgis
-    cd Docker-Postgis
+    cd docker-postgis
     docker-compose up -d --build
     
     # 进入容器
